@@ -24,3 +24,7 @@ This project is a bus route planner for Rio de Janeiro. It allows users to find 
    ```
 2. **Dataset bus stop**
    [Kaggle](https://www.kaggle.com/datasets/igorbalteiro/bus-stops-in-rio-de-janeiro/data).
+3. **Run flask app**:
+   ```sh
+   flask run or flask --debug run
+   ```
