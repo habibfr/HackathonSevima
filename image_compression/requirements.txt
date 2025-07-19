@@ -1,0 +1,6 @@
+flask
+pillow
+scikit-learn
+sqlalchemy
+pyjwt
+psycopg2-binary
