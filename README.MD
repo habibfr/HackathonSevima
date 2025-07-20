@@ -1,4 +1,5 @@
-# README.MD untuk dua project: image_compression dan route_planner
+# Tentang Repo :
+Ini adalah repository hasil mengikuti hackathon sevima 2025.
 
 # 1. Image Compression
 
@@ -74,4 +75,4 @@ Aplikasi perencana rute bus berbasis data bus stop kota Rio de Janeiro. Mengguna
 
 Dikembangkan oleh: **Habib Fatkhul Rohman aka Huang - 2025**
 
-Untuk pertanyaan atau kontribusi, silakan hubungi via email atau LinkedIn.
+Untuk pertanyaan atau kontribusi, silakan hubungi via email atau LinkedIn. Terima Kasih.
